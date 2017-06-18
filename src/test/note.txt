@@ -1,0 +1,5 @@
+This is where all of your application unit tests go.
+
+A unit test is a test written to verify the thing it's testing works correctly.
+A unit test has a very narrow scope, typically just one function/class/file.
+Any functionality outside of this scope should be configured to return specific responses.

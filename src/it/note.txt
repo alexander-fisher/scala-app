@@ -1,0 +1,6 @@
+This is where all of your application integration tests go.
+
+Integration tests are written to verify that different parts of the application work together.
+This means they have a much wider scope than unit tests.
+The only things that should be stubbed/mocked for integration tests are things external to the application.
+    - Examples of this are databases and other microservices.
